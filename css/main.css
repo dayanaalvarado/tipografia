@@ -1,0 +1,50 @@
+
+* {
+	margin:0px;
+	padding: 0px;}
+
+.contenedor{
+	position: absolute;
+	margin:auto;
+	padding: 0px;
+	left: 120px;}
+
+.box {
+	width: 200px;
+	height: 250px;
+	background-color: #CBCBCB;
+	float: left;
+	margin-top: 20px;
+	margin-left: 5px;}
+
+.box:hover{
+	background: #F1F1F1;
+  	text-decoration: none;
+  	width: 220px;
+	height: 270px;
+	float: left;
+font-style: #878787}
+
+
+
+.iconos {
+	font-size: 60px;
+	position: relative;
+	text-align: center;
+	margin-top: 20px;
+	font-style: #565656;}
+
+h5 {
+	font-family: 'Chewy', cursive;
+	font-size: 18px;
+	font-weight: 200%;
+	text-align: center;
+	font-style: #303030;
+	padding-top: 20px;}
+
+p {
+	font-family:'Coming Soon', cursive;
+	font-size: 12px;
+	text-align: center;
+	padding: 10px;}
+
